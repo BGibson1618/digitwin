@@ -1,0 +1,21 @@
+{
+  "full_name": "Brent Gibson",
+  "name": "Brent",
+  "current_role": "AI Engineer",
+  "location": "Austin, Texas",
+  "email": "bgibson1618@gmail.com",
+  "linkedin": "linkedin.com/in/brent-gibson-76386265/",
+  "specialties": [
+    "Project Management",
+    "Team Leadership",
+    "AI Engineering"
+  ],
+  "years_experience": 5,
+  "education": [
+    {
+      "degree": "Computer Science",
+      "institution": "California State University, Northridge",
+      "year": "2022"
+    }
+  ]
+}
